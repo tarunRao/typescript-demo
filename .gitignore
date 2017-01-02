@@ -1,0 +1,3 @@
+./node_modules/*
+./gulpfile.default.js
+./gulpfile.js.save
